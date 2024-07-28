@@ -1,4 +1,4 @@
-module github.com/zcalusic/sysinfo
+module github.com/gladhost/sysinfo
 
 go 1.22
 
